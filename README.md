@@ -5,13 +5,14 @@ It includes various programs demonstrating core OOPS principles such as Encapsul
 📂 Contents
 The repository includes:
 
-Classes and Objects 🏛️
-Encapsulation 🔒
-Inheritance 👨‍👩‍👧‍👦
-Polymorphism 🔄
-Abstraction 🎭
 
-🛠️ Technologies Used
+🔹 Classes and Objects
+🔹 Encapsulation 
+🔹Inheritance 
+🔹Polymorphism
+🔹Abstraction 
+
+Technologies Used
 Java 
 JDK 8+
 IDE: IntelliJ IDEA / Eclipse / VS Code
